@@ -1,0 +1,19 @@
+{
+  "adds" : [
+    {
+      "id" : "4",
+      "user_id" : "2",
+      "song_ids" : [
+        "8",
+        "32"
+      ]
+    }
+  ],
+  "removes":["1"
+  ],
+  "addsongs": [
+    {
+      "song_id" : "1",
+      "playlist_id": "4"
+    }]
+}

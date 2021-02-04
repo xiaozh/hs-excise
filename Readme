@@ -1,0 +1,6 @@
+The program can be run using the following command on command line, changeFile is also json
+
+java com.company.highspot.ApplyChange pathOfMixtapeFile pathOfChangeFile pathOfOutputFile
+
+If both mixtape and changes files are large. We will store objectsd in mixtape files into database while reading the file, after complete storing mixtype file.
+We will read changes files in and apply changes to database, and output from database.
